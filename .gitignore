@@ -1,0 +1,6 @@
+*.zip
+*.rar
+*.o
+*.out
+.idea
+*.vscode
